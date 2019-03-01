@@ -12,19 +12,9 @@ class ThreeViewController: BaseViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+        let btnCustom = CustomButtonView(frame: CGRect(x: view.bounds.maxX - 100, y: view.bounds.maxY - 100, width: 70, height: 70))
+        btnCustom.controllerIdentifier = Constants.VC_TAG_VALUE.THREE_TAG
+        view.addSubview(btnCustom)
     }
-    
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
 
 }
