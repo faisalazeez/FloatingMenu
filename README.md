@@ -3,7 +3,6 @@
 **Floating menu with expand and compress animation, written in Swift**
 
 ![alt text](https://github.com/faisalazeez/Floating-Menu/blob/master/ScreenShot_01.gif)
-![alt text](https://github.com/faisalazeez/Floating-Menu/blob/master/Screen%20Shot%20-%20iPhone%206s.png)
 ![alt text](https://github.com/faisalazeez/Floating-Menu/blob/master/screenshot_02.gif)
 
 ## 🔨 How to use
