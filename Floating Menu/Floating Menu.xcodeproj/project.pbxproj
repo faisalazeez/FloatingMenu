@@ -17,6 +17,19 @@
 		3A9E221C222908820040B5A5 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9E221B222908820040B5A5 /* BaseViewController.swift */; };
 		3A9E221E222908C80040B5A5 /* CustomButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9E221D222908C80040B5A5 /* CustomButtonView.swift */; };
 		3A9E222022290B2E0040B5A5 /* Cap.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9E221F22290B2E0040B5A5 /* Cap.jpg */; };
+		3A9E2223222940EB0040B5A5 /* Thor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9E2222222940EB0040B5A5 /* Thor.jpg */; };
+		3A9E2225222940F20040B5A5 /* Hulk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9E2224222940F20040B5A5 /* Hulk.jpg */; };
+		3A9E2227222941010040B5A5 /* Spider.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9E2226222941010040B5A5 /* Spider.jpg */; };
+		3A9E2229222941170040B5A5 /* Thanos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9E2228222941170040B5A5 /* Thanos.jpg */; };
+		3A9E222B222941230040B5A5 /* iron-man.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9E222A222941230040B5A5 /* iron-man.jpg */; };
+		3A9E22342229413F0040B5A5 /* Avengers-Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9E222C2229413F0040B5A5 /* Avengers-Icon.png */; };
+		3A9E22352229413F0040B5A5 /* cap-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9E222D2229413F0040B5A5 /* cap-icon.png */; };
+		3A9E22362229413F0040B5A5 /* avengers-logo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9E222E2229413F0040B5A5 /* avengers-logo.jpg */; };
+		3A9E22372229413F0040B5A5 /* thor-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9E222F2229413F0040B5A5 /* thor-icon.png */; };
+		3A9E22382229413F0040B5A5 /* iron-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9E22302229413F0040B5A5 /* iron-icon.png */; };
+		3A9E22392229413F0040B5A5 /* Hulk-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9E22312229413F0040B5A5 /* Hulk-icon.png */; };
+		3A9E223A2229413F0040B5A5 /* Thanos-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9E22322229413F0040B5A5 /* Thanos-icon.png */; };
+		3A9E223B2229413F0040B5A5 /* spider-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9E22332229413F0040B5A5 /* spider-icon.png */; };
 		3AEA22A6222902AC000E3F35 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AEA22A5222902AC000E3F35 /* AppDelegate.swift */; };
 		3AEA22A8222902AC000E3F35 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AEA22A7222902AC000E3F35 /* ViewController.swift */; };
 		3AEA22AB222902AC000E3F35 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AEA22A9222902AC000E3F35 /* Main.storyboard */; };
@@ -38,6 +51,19 @@
 		3A9E221B222908820040B5A5 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		3A9E221D222908C80040B5A5 /* CustomButtonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButtonView.swift; sourceTree = "<group>"; };
 		3A9E221F22290B2E0040B5A5 /* Cap.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cap.jpg; sourceTree = "<group>"; };
+		3A9E2222222940EB0040B5A5 /* Thor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Thor.jpg; sourceTree = "<group>"; };
+		3A9E2224222940F20040B5A5 /* Hulk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hulk.jpg; sourceTree = "<group>"; };
+		3A9E2226222941010040B5A5 /* Spider.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Spider.jpg; sourceTree = "<group>"; };
+		3A9E2228222941170040B5A5 /* Thanos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Thanos.jpg; sourceTree = "<group>"; };
+		3A9E222A222941230040B5A5 /* iron-man.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iron-man.jpg"; sourceTree = "<group>"; };
+		3A9E222C2229413F0040B5A5 /* Avengers-Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Avengers-Icon.png"; sourceTree = "<group>"; };
+		3A9E222D2229413F0040B5A5 /* cap-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cap-icon.png"; sourceTree = "<group>"; };
+		3A9E222E2229413F0040B5A5 /* avengers-logo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "avengers-logo.jpg"; sourceTree = "<group>"; };
+		3A9E222F2229413F0040B5A5 /* thor-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thor-icon.png"; sourceTree = "<group>"; };
+		3A9E22302229413F0040B5A5 /* iron-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iron-icon.png"; sourceTree = "<group>"; };
+		3A9E22312229413F0040B5A5 /* Hulk-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hulk-icon.png"; sourceTree = "<group>"; };
+		3A9E22322229413F0040B5A5 /* Thanos-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Thanos-icon.png"; sourceTree = "<group>"; };
+		3A9E22332229413F0040B5A5 /* spider-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "spider-icon.png"; sourceTree = "<group>"; };
 		3AEA22A2222902AC000E3F35 /* Floating Menu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Floating Menu.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AEA22A5222902AC000E3F35 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3AEA22A7222902AC000E3F35 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -75,6 +101,27 @@
 			path = ViewControllers;
 			sourceTree = "<group>";
 		};
+		3A9E2221222940D20040B5A5 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				3A9E222C2229413F0040B5A5 /* Avengers-Icon.png */,
+				3A9E222E2229413F0040B5A5 /* avengers-logo.jpg */,
+				3A9E222D2229413F0040B5A5 /* cap-icon.png */,
+				3A9E22312229413F0040B5A5 /* Hulk-icon.png */,
+				3A9E22302229413F0040B5A5 /* iron-icon.png */,
+				3A9E22332229413F0040B5A5 /* spider-icon.png */,
+				3A9E22322229413F0040B5A5 /* Thanos-icon.png */,
+				3A9E222F2229413F0040B5A5 /* thor-icon.png */,
+				3A9E221F22290B2E0040B5A5 /* Cap.jpg */,
+				3A9E2224222940F20040B5A5 /* Hulk.jpg */,
+				3A9E2226222941010040B5A5 /* Spider.jpg */,
+				3A9E2228222941170040B5A5 /* Thanos.jpg */,
+				3A9E2222222940EB0040B5A5 /* Thor.jpg */,
+				3A9E222A222941230040B5A5 /* iron-man.jpg */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		3AEA2299222902AC000E3F35 = {
 			isa = PBXGroup;
 			children = (
@@ -94,6 +141,7 @@
 		3AEA22A4222902AC000E3F35 /* Floating Menu */ = {
 			isa = PBXGroup;
 			children = (
+				3A9E2221222940D20040B5A5 /* Resources */,
 				3A9E220E2229079A0040B5A5 /* ViewControllers */,
 				3AEA22BF222903E3000E3F35 /* Files */,
 				3AEA22A5222902AC000E3F35 /* AppDelegate.swift */,
@@ -102,7 +150,6 @@
 				3A9E220C222905A90040B5A5 /* Assets.xcassets */,
 				3AEA22AE222902AE000E3F35 /* LaunchScreen.storyboard */,
 				3AEA22B1222902AE000E3F35 /* Info.plist */,
-				3A9E221F22290B2E0040B5A5 /* Cap.jpg */,
 			);
 			path = "Floating Menu";
 			sourceTree = "<group>";
@@ -177,10 +224,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A9E223A2229413F0040B5A5 /* Thanos-icon.png in Resources */,
+				3A9E222B222941230040B5A5 /* iron-man.jpg in Resources */,
+				3A9E2227222941010040B5A5 /* Spider.jpg in Resources */,
 				3AEA22B0222902AE000E3F35 /* LaunchScreen.storyboard in Resources */,
+				3A9E22362229413F0040B5A5 /* avengers-logo.jpg in Resources */,
+				3A9E2225222940F20040B5A5 /* Hulk.jpg in Resources */,
 				3AEA22B9222902D7000E3F35 /* FloatingMenuView.xib in Resources */,
+				3A9E2229222941170040B5A5 /* Thanos.jpg in Resources */,
+				3A9E2223222940EB0040B5A5 /* Thor.jpg in Resources */,
 				3A9E222022290B2E0040B5A5 /* Cap.jpg in Resources */,
 				3AEA22AB222902AC000E3F35 /* Main.storyboard in Resources */,
+				3A9E22392229413F0040B5A5 /* Hulk-icon.png in Resources */,
+				3A9E22352229413F0040B5A5 /* cap-icon.png in Resources */,
+				3A9E22372229413F0040B5A5 /* thor-icon.png in Resources */,
+				3A9E22382229413F0040B5A5 /* iron-icon.png in Resources */,
+				3A9E223B2229413F0040B5A5 /* spider-icon.png in Resources */,
+				3A9E22342229413F0040B5A5 /* Avengers-Icon.png in Resources */,
 				3A9E220D222905A90040B5A5 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
