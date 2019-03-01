@@ -2,6 +2,10 @@
 
 **Floating menu with expand and compress animation, written in Swift**
 
+![alt text](https://github.com/faisalazeez/Floating-Menu/blob/master/ScreenShot_01.gif)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 ## 🔨 How to use
 
 - Add ```FloatingMenuView.swift``` and ```FloatingMenuView.xib``` to your project. 
