@@ -1,6 +1,6 @@
-# 🖼 Floating-Menu
+# 🖼 FloatingMenu
 
-**Floating menu with expand and compress animation, written in Swift**
+**FloatingMenu with expand and compress animation, written in Swift**
 
 ![alt text](https://github.com/faisalazeez/Floating-Menu/blob/master/ScreenShot_01.gif)
 ![alt text](https://github.com/faisalazeez/Floating-Menu/blob/master/screenshot_02.gif)
